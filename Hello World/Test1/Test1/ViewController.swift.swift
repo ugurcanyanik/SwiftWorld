@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var etiket: UILabel!
     
-    @IBOutlet weak var giris: UITextField!
+    @IBOutlet weak var giris: UIView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
